@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkohedgehog/Backgroundgenerator.git"
+  },
+  "author": "https://github.com/darkohedgehog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkohedgehog/Backgroundgenerator/issues"
+  },
+  "homepage": "https://github.com/darkohedgehog/Backgroundgenerator#readme"
+}
